@@ -1,0 +1,62 @@
+# Neara
+
+> Neara builds a physics-enabled digital twin platform for electric utilities. It models every asset, clearance, and piece of surrounding vegetation in a single spatially precise, behaviourally accurate network model. Utilities use Neara to predict failures, mitigate wildfire and weather risk, accelerate network design, and optimise capital investment — at scale, in real time.
+
+Neara is trusted by utilities across Australia, the UK, the US, and Europe. Customers include Essential Energy, Endeavour Energy, SA Power Networks, CenterPoint Energy, ESB Networks, and Scottish and Southern Electricity Networks (SSEN).
+
+## Key pages
+
+- [Home](https://neara.com/): Overview of the physics-enabled digital twin platform.
+- [Our Platform](https://neara.com/our-platform): How the physics model works and what makes it different.
+- [Physics-Enabled Digital Twin](https://neara.com/physics-enabled-digital-twin): Deep-dive on the modelling technology.
+- [How It Works](https://neara.com/how-it-works): Demo videos showing Neara in action.
+
+## Solutions
+
+- [Resiliency & Reliability](https://neara.com/solutions/resiliency-reliability): Asset risk scoring and SAIDI/SAIFI reduction.
+- [Wildfire Mitigation](https://neara.com/solutions/wildfire-mitigation): Conductor clearance, ignition risk, and vegetation modelling.
+- [Severe Weather Response](https://neara.com/solutions/severe-weather-response): Storm, flood, and extreme wind simulation.
+- [Asset Management](https://neara.com/solutions/asset-management): Physics-accurate condition assessment and inspection programs.
+- [Risk & Value Optimization](https://neara.com/solutions/risk-value-optimization): Capital program prioritisation and regulator-ready reporting.
+- [Design & Construction](https://neara.com/solutions/design-construction): New build and reconductoring in the digital twin before breaking ground.
+
+## Capabilities
+
+- [Wildfire Management](https://neara.com/capabilities/wildfire-management)
+- [Hurricane & Storm Management](https://neara.com/capabilities/hurricane-storm-management)
+- [Flood Management](https://neara.com/capabilities/flood-management)
+- [Snow & Ice Management](https://neara.com/capabilities/snow-ice-management)
+- [Vegetation Management](https://neara.com/capabilities/vegetation-management)
+- [Clearance Analysis](https://neara.com/capabilities/clearance-analysis)
+- [Digital Line Rating](https://neara.com/capabilities/digital-line-rating)
+- [Risk & Impact Scoring](https://neara.com/capabilities/risk-impact-scoring)
+- [Equipment Inspections](https://neara.com/capabilities/equipment-inspections)
+- [Network Design & Construction](https://neara.com/capabilities/network-design-construction)
+- [LiDAR & GIS Reconciliation](https://neara.com/capabilities/lidar-gis-reconciliation)
+- [Renewable Energy Integration](https://neara.com/capabilities/renewable-energy-integration)
+- [Interconnection Request Management](https://neara.com/capabilities/interconnection-request-management)
+- [Transmission Design Optimization](https://neara.com/capabilities/transmission-design-optimization)
+- [Forecast & Backcast Resilience](https://neara.com/capabilities/forecast-and-backcast-resilience)
+
+## Case studies
+
+- [Essential Energy doubles network capacity without new infrastructure](https://neara.com/resources/case-studies/essential-energy-achieves-major-step-towards-decarbonization-with-neara)
+- [Endeavour Energy eliminates 300 hours of flood inspection time](https://neara.com/resources/case-studies/case-study-weather-endeavour-energy)
+- [SA Power Networks restores flood-affected power in 5 days vs 3 weeks](https://neara.com/resources/case-studies/flood-mitigation-with-sa-power-networks)
+- [US utility defers 25,000 pole replacements, saving millions](https://neara.com/resources/case-studies/case-study-utility-defers-25k-pole-replacements)
+- [Australian utility identifies conductor clash risks 10x faster](https://neara.com/resources/case-studies/case-study-conductor-clash-risk-detection)
+- [Empact Engineering models 12,000 poles/month, 3x faster](https://neara.com/resources/case-studies/empact-engineering-delivers-for-utilities-faster-with-neara)
+- [Transmission design completed in under 2 weeks, half the timeline](https://neara.com/resources/case-studies/accelerating-transmission-design-for-an-australian-utility)
+
+## Resources
+
+- [Guides & Whitepapers](https://neara.com/resources/guides)
+- [Press](https://neara.com/resources/press)
+- [Thought Leadership](https://neara.com/resources/thought-leadership)
+- [Case Studies](https://neara.com/case-studies)
+
+## Company
+
+- [Our Story](https://neara.com/company/our-story)
+- [Careers](https://neara.com/company/careers)
+- [Contact Us](https://neara.com/company/contact-us)

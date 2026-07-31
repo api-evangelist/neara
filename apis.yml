@@ -1,8 +1,17 @@
 aid: neara
 name: Neara
-description: 'Neara is a company surfaced as a portfolio company of prosus-ventures and added to the API
-  Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Neara is a physics-enabled digital twin platform for electric utilities and
+  network operators. It builds a single, physics-accurate 3D model of a
+  utility's entire network from LiDAR, GIS, and imagery, then runs
+  engineering-grade simulations across vegetation management, wildfire and flood
+  mitigation, severe-weather response, clearance and conductor-clash analysis,
+  pole utilization and FEA, asset inspection and lifecycle management, and
+  transmission and distribution network design. Utilities use Neara to plan,
+  harden, and operate their grids at scale — forecasting and backcasting
+  resilience, prioritizing risk, and optimizing capital spend across millions of
+  assets. Founded in Australia, Neara operates regionally across ANZ, the USA,
+  and Europe.
 url: https://raw.githubusercontent.com/api-evangelist/neara/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +19,34 @@ x-backed-by:
 - prosus-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://neara.com/apple-touch-icon.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
-- Ai
+- Utilities
+- Energy
+- Digital Twin
+- Electricity Grid
+- LiDAR
+- GIS
+- Simulation
+- Wildfire Mitigation
+- Vegetation Management
+- Asset Management
+- Infrastructure
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +54,34 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/neara-domain-security.yml
 - type: Website
   url: https://neara.com
+- type: Support
+  name: Knowledge Base
+  url: https://knowledge.neara.com/en/
+- type: Login
+  url: https://app.neara.com/
+- type: SignUp
+  name: Get a Demo
+  url: https://neara.com/get-a-demo
+- type: PrivacyPolicy
+  url: https://neara.com/company/privacy-policy
+- type: TermsOfService
+  url: https://neara.com/company/terms-of-service/
+- type: Careers
+  url: https://neara.com/company/careers
+- type: LLMsTxt
+  url: llms/neara-llms.txt
+- type: GitHubOrganization
+  name: Neara-Software
+  url: https://github.com/Neara-Software
+- type: Blog
+  name: Thought Leadership
+  url: https://neara.com/resources/thought-leadership
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 1
+  pass: local-v1
